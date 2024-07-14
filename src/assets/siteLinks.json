@@ -2,17 +2,12 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "link": "https://blog.litefen.icu/"
   },
   {
     "icon": "Cloud",
     "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "link": "https://tukuai.icu/"
   },
   {
     "icon": "Compass",
@@ -20,9 +15,9 @@
     "link": "https://nav.imsyy.top/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.imsyy.top/"
   },
   {
     "icon": "Fire",
@@ -30,8 +25,8 @@
     "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Bulb",
+    "name": "开发中",
+    "link": "https://blog.litefen.icu/"
   }
 ]

@@ -1,11 +1,11 @@
 简体中文 | [English](./README_EN.md)
 
 <p>
-<strong><h2>無名の主页</h2></strong>
+<strong><h2>心愿の主页</h2></strong>
 简单的小主页，原来的看够了，重新弄了一个
 </p>
 
-![無名の主页](/screenshots/main.jpg)
+![心愿の主页](/screenshots/main.jpg)
 
 > 主页的 Logo 字体已经过压缩，若用本站 Logo 以外的字母会变回默认字体，这里是 [完整字体](https://file.imsyy.top/font/Other/Pacifico-Regular.ttf)，若无法下载，可将字体目录下的 `Pacifico-Regular-all.ttf` 进行替换
 
@@ -66,6 +66,7 @@ pnpm build
 ### ⚙️ Docker 部署
 
 > 安装及配置 Docker 将不在此处说明，请自行解决
+> 因国内 Docker 被屏蔽，不建议使用，若需要使用 Docker 请自行寻找代理配置文件
 
 ```bash
 # 构建
@@ -91,7 +92,7 @@ docker run -p 12445:12445 -d home
 {
   "icon": "Blog",
   "name": "博客",
-  "link": "https://blog.imsyy.top/"
+  "link": "https://blog.litefen.icu/"
 },
 ```
 
